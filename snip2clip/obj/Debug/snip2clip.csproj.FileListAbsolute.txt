@@ -1,0 +1,17 @@
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\snip2clip.exe.config
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\snip2clip.exe
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\snip2clip.pdb
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.frmInit.resources
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.Properties.Resources.resources
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.csproj.GenerateResource.cache
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.exe
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.pdb
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\x86\leptonica-1.78.0.dll
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\x86\tesseract41.dll
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\x64\leptonica-1.78.0.dll
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\x64\tesseract41.dll
+C:\Users\Joe\source\repos\snip2clip\snip2clip\bin\Debug\Tesseract.dll
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.frmResult.resources
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.csproj.CopyComplete
+C:\Users\Joe\source\repos\snip2clip\snip2clip\obj\Debug\snip2clip.frmFullScreen.resources
